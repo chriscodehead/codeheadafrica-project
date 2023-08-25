@@ -231,38 +231,26 @@
                                         <div id="section-gm5867c8" class="section-gm5867c8 gutentor-col-wrap">
                                             <div id="section-g9563f2" class="wp-block-gutentor-e1 section-g9563f2 gutentor-element gutentor-element-advanced-text">
                                                 <div class="gutentor-text-wrap">
-                                                    <h3 class="gutentor-text">About G-FORCE</h3>
+                                                    <h3 class="gutentor-text">About Code Head Africa Project</h3>
                                                 </div>
                                             </div>
                                             <div id="section-gf541b0" class="wp-block-gutentor-e1 section-gf541b0 gutentor-element gutentor-element-advanced-text">
                                                 <div class="gutentor-text-wrap">
                                                     <div class="gutentor-text">
-                                                        <p>At G-Force, we are dedicated to creating a society free from gender-based violence. We believe in a world where every individual can live without fear, where their rights and dignity are protected, and where equality and respect prevail.
+                                                        <p>Code Head Africa Project is committed to promoting technology education among young people in Africa. We believe that by providing the necessary resources and support, we can help African children develop the skills they need to succeed in the digital age. We look forward to working with various agencies and organizations to make our vision a reality.
+
+                                                            <br><br>
+
+                                                            NB: Your contribution and suggestion on the above proposal will be highly welcome. Our aim is to find out how best to carry out this project.
+
                                                         </p>
-                                                        <p>
-                                                            Gender-based violence is a pervasive issue that affects individuals of all genders, ages, and backgrounds. It leaves lasting scars on survivors and perpetuates cycles of harm and inequality. We are committed to addressing this issue head-on and empowering change at every level.
-                                                        </p>
-                                                        <p>
-                                                            Our mission is to provide a comprehensive platform that supports victims, raises awareness, and promotes prevention efforts. Through the G-Force app, we offer a safe and confidential space for individuals to report incidents of gender-based violence, access vital support services, and contribute to the collective fight against this social injustice.
-                                                        </p>
-                                                        <p>
-                                                            We recognize the importance of collaboration and partnership in creating lasting change. We work closely with law enforcement agencies, support service providers, government entities, and community organizations to ensure a coordinated response and comprehensive support for victims. By fostering strong alliances, we strengthen our impact and amplify our voice against gender-based violence.
-                                                        </p>
-                                                        <p>
-                                                            Data is a powerful tool in driving change. We harness the power of data analysis to identify trends, patterns, and high-risk areas. This information informs our prevention strategies, resource allocation, and advocacy efforts. By understanding the scope and impact of gender-based violence, we strive for systemic change and a safer future for all.
-                                                        </p>
-                                                        <p>
-                                                            Education and awareness are crucial components of our approach. We develop educational resources, training programs, and awareness campaigns to challenge societal norms, promote respectful relationships, and empower individuals with knowledge. Through community engagement, we inspire collective action and promote a culture of equality and non-violence.
-                                                        </p>
-                                                        <p>
-                                                            At G-Force, we are more than an app; we are a movement. We invite you to join us in this crucial fight against gender-based violence. Together, we can empower survivors, hold perpetrators accountable, and create a society where everyone can thrive without fear. Let us stand united, inspire change, and build a future free from violence.
-                                                        </p>
-                                                        <p>
-                                                            Welcome to G-Force, where empowerment and change begin.</p>
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div id="section-g911d57" class="wp-block-gutentor-e2 section-g911d57 gutentor-element gutentor-element-button"><span class="gutentor-button-wrap"><a class="gutentor-button gutentor-block-button gutentor-icon-before" href=""><i class="gutentor-button-icon fa fa-pencil-alt"></i><span>Join Us</span></a></span></div>
+                                            <div id="section-g911d57" class="wp-block-gutentor-e2 section-g911d57 gutentor-element gutentor-element-button">
+                                                <span class="gutentor-button-wrap"><a class="gutentor-button gutentor-block-button gutentor-icon-before" href="https://forms.gle/wpKmuXxxkhcGQgv36">
+                                                        <span>Join Us</span></a></span>
+                                            </div>
                                         </div>
                                     </div>
                                     <div id="col-gmdea2ae" class="wp-block-gutentor-m4-col col-gmdea2ae gutentor-single-column  grid-lg-6 grid-md-6 grid-12">

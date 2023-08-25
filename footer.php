@@ -1,4 +1,4 @@
-<footer>
+<footer style="margin-top: 30px;">
  <div class="ui inverted vertical segment footer">
   <div class="ui container">
    <div class="ui stackable inverted grid site-footer-grid">
@@ -6,11 +6,11 @@
 
     <div class="four wide column">
      <section id="contact_widget-1" class="widget contact_sidebar">
-      <h3 class="widget-title">G-FORCE LLC</h3>
+      <h3 class="widget-title">Code Head Africa Project</h3>
       <div>
-       <div class="font large"><i class="fa fa-phone"></i> +234 803 524 9716</div>
-       <div><i class="fa fa-envelope"></i> chrischikabox@gmail.com</div>
-       <i class="fa fa-map-marker"></i>3 kenyatta street Afpet Plaza
+       <div class="font large">&caret; +234 803 524 9716</div>
+       <div>&caret; chrischikabox@gmail.com</div>
+       &caret; 3 kenyatta street Afpet Plaza
       </div>
      </section>
      <!-- <section id="social_widget-2" class="widget social_sidebar">
@@ -26,13 +26,13 @@
    </div>
    <div class="ui inverted text small right menu footer-menu" id="footer-menu">
     <div class="item">
-     <div class="copyright">© 2023 Campoal by Conikal.</div>
+     <div class="copyright">© 2023 - Code Head Africa Project By Association Of Not Too Young To Tech Youth Development Initiative.</div>
     </div>
     <div class="right menu footer-right-menu">
      <a class="item " href="#" target="_self" data-bjax="">Help</a>
      <a class="item " href="#" target="_self" data-bjax="">FAQs</a>
      <a class="item " href="#" target="_self" data-bjax="">Support</a>
-     <a class="item " href="#" target="_self" data-bjax="">Contact</a>
+     <a class="item " href="https://forms.gle/wpKmuXxxkhcGQgv36" target="_self" data-bjax="">Contact</a>
      <a class="item " href="#" target="_self" data-bjax="">Terms</a>
      <a class="item " href="#" target="_self" data-bjax="">Privacy</a>
     </div>
