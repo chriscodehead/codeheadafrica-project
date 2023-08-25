@@ -25,8 +25,8 @@
  <meta property="og:type" content="article" />
  <meta property="og:description" content="CodeHeadAfrica is a community-based organization that aims to promote technology education among young people in Africa. " />
  <meta property="og:url" content="https://codeheadafrica.com/">
- <meta property="og:image" content="https://codeheadafrica.com/img/logo.png">
- <meta property="og:image:secure_url" content="https://codeheadafrica.com/img/logo.png" />
+ <meta property="og:image" content="https://codeheadafrica.com/img/favicon.png">
+ <meta property="og:image:secure_url" content="https://codeheadafrica.com/img/favicon.png" />
  <meta property="og:image:width" content="600" />
  <meta property="og:image:height" content="415" />
 
@@ -34,13 +34,13 @@
  <meta name="twitter:title" content="community-based organization" />
  <meta name="twitter:url" content="https://codeheadafrica.com/">
  <meta name="twitter:description" content="CodeHeadAfrica is a community-based organization that aims to promote technology education among young people in Africa. " />
- <meta name="twitter:image" content="https://codeheadafrica.com/img/logo.png" />
+ <meta name="twitter:image" content="https://codeheadafrica.com/img/favicon.png" />
  <meta name="twitter:domain" content="https://codeheadafrica.com/">
  <meta name="twitter:creator" content="Codeheadafrica">
 
  <meta itemprop="name" content="Codeheadafrica">
  <meta itemprop="description" content="CodeHeadAfrica is a community-based organization that aims to promote technology education among young people in Africa. ">
- <meta itemprop="image" content="https://codeheadafrica.com/img/logo.png">
+ <meta itemprop="image" content="https://codeheadafrica.com/img/favicon.png">
  <meta name="author" content="elemis">
 
  <meta name="robots" content="noindex, nofollow">
@@ -294,10 +294,10 @@
    margin-top: 0px !important;
   }
  </style>
- <link rel="icon" href="https://dlkho6epq83v0.cloudfront.net/impact/wp-content/uploads/2022/02/06144103/cropped-campoal-icon-impact-32x32.png" sizes="32x32">
- <link rel="icon" href="https://dlkho6epq83v0.cloudfront.net/impact/wp-content/uploads/2022/02/06144103/cropped-campoal-icon-impact-192x192.png" sizes="192x192">
- <link rel="apple-touch-icon" href="https://dlkho6epq83v0.cloudfront.net/impact/wp-content/uploads/2022/02/06144103/cropped-campoal-icon-impact-180x180.png">
- <meta name="msapplication-TileImage" content="https://dlkho6epq83v0.cloudfront.net/impact/wp-content/uploads/2022/02/06144103/cropped-campoal-icon-impact-270x270.png">
+ <link rel="icon" href="img/favicon.png" sizes="32x32">
+ <link rel="icon" href="img/favicon.png" sizes="192x192">
+ <link rel="apple-touch-icon" href="img/favicon.png">
+ <meta name="msapplication-TileImage" content="img/favicon.png">
 
  <style type="text/css" id="gutentor-dynamic-css">
  </style>
